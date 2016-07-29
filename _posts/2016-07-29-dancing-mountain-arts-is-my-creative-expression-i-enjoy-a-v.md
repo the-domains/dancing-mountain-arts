@@ -10,8 +10,8 @@ description: >-
   find one of a kind pieces of art. There are no templates, jigs or patterns.
   Each piece is created freehand, so each piece is unique. I hope you enjoy
   looking at my work. I enjoyed creating them. — Jeanne
-datePublished: '2016-07-29T22:56:46.874Z'
-dateModified: '2016-07-29T22:56:07.480Z'
+datePublished: '2016-07-29T23:03:25.228Z'
+dateModified: '2016-07-29T23:02:55.263Z'
 title: ''
 author: []
 via: {}
