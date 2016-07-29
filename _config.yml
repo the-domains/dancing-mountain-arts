@@ -1,7 +1,7 @@
 name: Dancing Mountain Arts
 favicon: null
 layout_spectrum: 0.5045091197825968
-typography_spectrum: 0.2746944488026202
+typography_spectrum: 0.15111
 title: Dancing Mountain Arts
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.7764332452788949
-  lightness: 0.07641637930646539
-  saturation: 0.9943742870818824
-  rhythmicContrast: 0.5032286858186126
+    - '#faf0d8'
+    - '#797c5e'
+    - '#f5c02c'
+    - '#270601'
+    - '#8d330d'
+  brandStrength: 0.5
+  lightness: 0.8125
+  saturation: 0.1875
+  rhythmicContrast: 0.5
 purpose: []
